@@ -19,6 +19,8 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.MalformedURLException;
 import java.net.URL;
+// Credit to Hisham Muneer for his video's on JSON parsing https://www.youtube.com/watch?v=Gyaay7OTy-w
+// This app is built using his videos
 
 public class MainActivity extends AppCompatActivity {
 
